@@ -1,5 +1,5 @@
 # JavaScript Challenge
-The JavaScript challenge involved writing code to create a dynamic table based upon data provided, so as to allow users to filter the table data for specific values.
+This project involved writing code to create a dynamic table based upon data provided, so as to allow users to filter the table data for specific values.
 
 
 ## UFO-level-1
@@ -10,7 +10,7 @@ The JavaScript challenge involved writing code to create a dynamic table based u
    * An HTML webpage that displays data in a table created using multiple input tags, so as to allow the user to set multiple filters while searching for UFO sightings.
 
 ## Technologies
-The languages, libraries and other tools used in this project are as below, and with their versions:
+The languages and libraries used in this project are as below:
 
    * JavaScript
    * CSS
