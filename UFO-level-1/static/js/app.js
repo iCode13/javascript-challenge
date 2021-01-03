@@ -76,6 +76,6 @@ function reset() {
     // Remove any children from table
     tbody.html("");
 
-    // Revert to displaying all the ufo sightings in a table format
+    // Display all UFO sightings as a table
     table(tableData);
 }
