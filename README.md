@@ -18,5 +18,5 @@ The languages, libraries and other tools used in this project are as below, and 
    * D3.js  
 
 ### Contact:
-Created by [@iCode13](https://github.com/iCode13) - please feel free to contact me!
+Created by [@iCode13](https://github.com/iCode13) - please feel free to contact me with related queries.
 
