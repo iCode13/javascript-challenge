@@ -12,11 +12,11 @@ This project involved writing code to create a dynamic table based upon data pro
 ## Technologies
 The languages and libraries used in this project are as below:
 
-   * JavaScript
-   * CSS
-   * HTML
-   * D3.js  
+* JavaScript
+* CSS
+* HTML
+* D3.js  
 
 ### Contact:
-Created by [@iCode13](https://github.com/iCode13) - please feel free to contact me with related queries.
+Created by [@iCode13](https://github.com/iCode13) - please contact with questions/comments.
 
